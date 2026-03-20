@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card-header {
+  font-size: 1rem;
+  letter-spacing: 0.03em;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
