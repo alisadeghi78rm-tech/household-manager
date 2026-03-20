@@ -1,0 +1,23 @@
+## My Journey - Household Manager
+20.03.2026
+### Projekt Setup
+- GitHub Repository "household-manager" erstellt
+- Repository lokal geklont mit git clone
+- Neuen Branch erstellt: feature/expense-inventory-layout
+
+### Taiga
+- Backlog User Story erstellt für das Layout
+- Karte in "In Progress" gesetzt
+
+### Aufgabe: Simple webpage layout for expense input and inventory view
+- index.html erstellt mit Bootstrap 5 via CDN
+- Expense-Formular mit Feldern: Artikel, Betrag, Kategorie, Bezahlt von
+- Inventar-Tabelle mit Status-Badges (Verfügbar / Niedrig / Leer)
+- Warnmeldung wenn Artikel leer ist (z.B. Salz)
+- style.css erstellt mit minimalem eigenem Styling
+
+### Git Workflow
+- git add . → git commit → git push
+- Pull Request auf GitHub erstellt
+- Branch in main gemergt
+- Taiga Karte auf "Ready" gesetzt
